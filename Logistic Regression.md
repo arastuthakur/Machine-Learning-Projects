@@ -394,6 +394,7 @@ class LogisticRegression:
         y_pred = self.sigmoid(linear_model)
         y_pred_class = [1 if i > 0.5 else 0 for i in y_pred]
         return y_pred_class
+```
 
 
 #### Using Python and Libraries
