@@ -434,7 +434,7 @@ from sklearn.metrics import accuracy_score, classification_report
 # Evaluate the model
 accuracy = accuracy_score(y_test, y_pred)
 report = classification_report(y_test, y_pred)
-
+```
 
 # Resources for Deepening Your Understanding of Logistic Regression
 
