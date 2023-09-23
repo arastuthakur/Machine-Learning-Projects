@@ -1,5 +1,3 @@
-![905753](https://github.com/arastuthakur/365_Days_Of_Machine_Learning/assets/76399951/cf7372c3-3552-4932-9f0c-a40df6c1b359)# Decision Tree Classifier Explained
-
 ## Introduction
 Decision Tree Classifier is a versatile and widely used machine learning algorithm for classification tasks. In this guide, we will explore Decision Tree Classifier from fundamental concepts to advanced techniques.
 
