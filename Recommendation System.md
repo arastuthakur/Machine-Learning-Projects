@@ -1,4 +1,4 @@
-![movielens-head](https://github.com/arastuthakur/365_Days_Of_Machine_Learning/assets/76399951/4baaafc4-21c0-493b-8160-ab9ca069629d)# Recommendation Systems Explained
+# Recommendation Systems Explained
 
 ## Introduction
 Recommendation systems, also known as recommender systems, are vital components of many online platforms and services. They assist users in discovering content or products that match their preferences and needs. In this guide, we will explore recommendation systems, from fundamental concepts to advanced techniques.
