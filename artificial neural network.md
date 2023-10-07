@@ -57,10 +57,6 @@ The primary function of an artificial neuron is to perform a weighted sum of its
 
 2. **Summation**: The neuron calculates the sum of the weighted inputs. Mathematically, this can be represented as:
 
-Certainly! Here's an explanation of the structure and function of artificial neurons in GitHub Markdown format:
-
-markdown
-Copy code
 ## Structure and Function of Artificial Neurons
 
 Artificial neurons, often referred to as "perceptrons," are fundamental building blocks of artificial neural networks (ANNs). They serve as the basic processing units in these networks, and understanding their structure and function is crucial to grasp the foundations of deep learning and machine learning.
